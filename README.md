@@ -92,17 +92,28 @@ The broader study evaluates a **13-model shortlist across six model families** �
 
 ---
 
-## Featured Projects
+## Research / Thesis Experiments
+
+| Repository | What it demonstrates | Main technologies |
+|---|---|---|
+| **[Qwen2.5-Coder-3B-Instruct QLoRA + RAG](https://github.com/Alif-ziad/Qwen2.5-Coder-3B-Instruct-QLoRA-RAG_Testing)** | Model-specific code-repair experimentation covering QLoRA evaluation and retrieval-augmented diagnostics | Python, PyTorch, Transformers, QLoRA, FAISS |
+| **[Gemma 4 E2B QLoRA + RAG](https://github.com/Alif-ziad/Gemma-4-E2B-it-QLoRA-RAG_testing)** | Gemma-based code-repair evaluation and retrieval-augmented experimental workflow | Python, PyTorch, Transformers, QLoRA, FAISS |
+| **[Llama 3.2 3B QLoRA Testing](https://github.com/Alif-ziad/LLAMA-3.2-3B-INSTRUCT_QLORA_Testing)** | Llama-based code-repair baseline and evaluation artifacts used in the broader thesis workflow | Python, PyTorch, Transformers, QLoRA |
+
+> Some thesis RAG experiments use gold-reference gating as an oracle-assisted diagnostic. These are upper-bound experiments, not deployable inference results.
+
+---
+
+## Selected Software Projects
 
 | Project | What it demonstrates | Main technologies |
 |---|---|---|
-| **[Nirjhor](https://github.com/Alif-ziad/Nirjhor_Project)** | Multi-role e-commerce marketplace with customer, seller, and administrator workflows; product management, orders, and seller approval | PHP, MySQL, HTML, CSS |
-| **[Dhaka City Graphical View](https://github.com/Alif-ziad/Dhaka-City-Graphical-view)** | Interactive computer-graphics project combining Airport, Uttara, and 300 Feet Road scenes | C++, OpenGL, GLUT |
-| **[Travel Agency Management System](https://github.com/Alif-ziad/Tour-Management-System)** | Desktop application implementing travel-agency and tour-management workflows | Java, Swing |
-| **[Real vs AI-Generated Image](https://github.com/Alif-ziad/Real_VS_AI_Generated_image)** | Image-classification experimentation with preprocessing and model-training notebooks | Python, Jupyter, ML workflow |
-| **[FraudSense](https://github.com/Alif-ziad/FraudSense)** | Fraud-detection product concept and packaged interface prototype | UI / product prototype |
+| **[Nirjhor](https://github.com/Alif-ziad/Nirjhor_Project)** | Multi-role e-commerce marketplace with customer, seller, and administrator workflows; product management, cart, orders, approvals, and reporting | PHP, MySQL, HTML, CSS |
+| **[Real vs AI-Generated Image](https://github.com/Alif-ziad/Real_VS_AI_Generated_image)** | CNN-based image-classification experiment comparing baseline and augmented training on a balanced real-vs-synthetic image dataset | Python, PyTorch, Jupyter |
+| **[Job Circular Registration](https://github.com/Alif-ziad/Job-Circular-Registration)** | Java Swing recruitment prototype with separate applicant registration/login flows and lightweight local persistence | Java, Swing, AWT |
+| **[Dhaka City Graphical View](https://github.com/Alif-ziad/Dhaka-City-Graphical-view)** | Interactive computer-graphics project combining Airport, Uttara, and 300 Feet Dhaka scenes with animation and scene switching | C++, OpenGL, GLUT |
 
-> **Portfolio note:** I keep project descriptions aligned with what is actually published in each repository. Experimental or incomplete components are labeled accordingly.
+> **Portfolio note:** Project descriptions are kept aligned with what is actually published in each repository. Experimental or incomplete components are labeled accordingly.
 
 ---
 
@@ -128,8 +139,9 @@ Mathematics and science tutoring for students in classes 7–10, strengthening c
 
 ## More Work
 
+- **[Travel Agency Management System](https://github.com/Alif-ziad/Tour-Management-System)** — Java Swing travel-agency desktop project with user/admin and package-selection workflows.
+- **[FraudSense](https://github.com/Alif-ziad/FraudSense)** — Academic fraud-monitoring product concept with a packaged UI prototype.
 - **[PHP Coursework](https://github.com/Alif-ziad/PHP)** — PHP/MySQL exercises covering forms, database interaction, and CRUD-style workflows.
-- **[Job Circular Registration](https://github.com/Alif-ziad/Job-Circular-Registration)** — Java desktop coursework centered on role-based job-registration workflows.
 - **[Web Tech Mid](https://github.com/Alif-ziad/Web-Tech-Mid)** — Web-development coursework and practice.
 
 ---
