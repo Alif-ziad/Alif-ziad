@@ -14,7 +14,7 @@ I build web and software projects, and I'm looking for a **software development 
 - **FraudSense**: AI-based fraud detection platform *(link when public)*
 
 ### 📫 Contact
-[LinkedIn](your-link) · ziadalif149@gmail.com
+[LinkedIn](www.linkedin.com/in/alif-ziad-8500423b3) · ziadalif149@gmail.com
 
 <!--
 **Alif-ziad/Alif-ziad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
