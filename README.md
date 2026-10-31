@@ -7,7 +7,7 @@
 **American International University-Bangladesh (AIUB) · Expected graduation: 2026**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/alifziad/home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-ziad-8500423b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-ziad)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadalif149@gmail.com)
 
 ![Open to Internship](https://img.shields.io/badge/OPEN%20TO-CURRICULUM%20INTERNSHIP-2ea44f?style=flat-square)
@@ -124,7 +124,7 @@ The broader study evaluates a **13-model shortlist across six model families** �
 
 ### American International University-Bangladesh (AIUB)
 **BSc in Computer Science and Engineering**  
-Expected graduation: **2026**
+Expected graduation: **2026** · CGPA: **3.50 / 4.00**
 
 ---
 
@@ -132,11 +132,11 @@ Expected graduation: **2026**
 
 ### Business Partner — Nirjhor Crafts
 **2025–Present**  
-Online business operations, product promotion, customer communication, and order coordination.
+I run the online side of an early-stage handmade-crafts business on Facebook: product posts, customer messages and orders.
 
 ### Private Tutor — Caretutors
 **2023–2025**  
-Mathematics and science tutoring for students in classes 7–10, strengthening communication, explanation, and mentoring skills.
+Tutored 3 students in maths and science across classes 7–10, in Bangla medium and English version, two of them for two school years.
 
 ---
 
@@ -154,6 +154,6 @@ Mathematics and science tutoring for students in classes 7–10, strengthening c
 
 If you're looking for a student developer for a **curriculum internship**, feel free to reach out through LinkedIn or email.
 
-[Portfolio](https://sites.google.com/view/alifziad/home) · [LinkedIn](https://www.linkedin.com/in/alif-ziad-8500423b3/) · [Email](mailto:ziadalif149@gmail.com)
+[Portfolio](https://sites.google.com/view/alifziad/home) · [LinkedIn](https://www.linkedin.com/in/alif-ziad) · [Email](mailto:ziadalif149@gmail.com)
 
 </div>
