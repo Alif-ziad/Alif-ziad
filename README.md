@@ -20,12 +20,12 @@
 
 ## About Me
 
-- 🎓 Final-year **BSc in Computer Science and Engineering** student at **AIUB**, expected to graduate in **2026**.
-- 💻 I enjoy building practical software across **web applications, database-backed systems, desktop applications, and computer graphics**.
-- 🧩 My project work includes **PHP/MySQL marketplaces, Java Swing applications, Oracle SQL/PLSQL database systems, frontend JavaScript exercises, C++ OpenGL graphics, and image-classification experiments**.
-- 🤖 I am also working on applied AI/ML research involving **LLM-based code debugging and repair**.
-- 🛠️ I value clear project structure, readable documentation, reproducible work, and practical problem solving.
-- 🎯 I am currently seeking a **curriculum internship** in **software engineering, backend/web development, applied AI/ML, or related development roles**.
+I'm a final-year Computer Science and Engineering student at AIUB, graduating in 2026. I work on backend/web development and applied AI/ML.
+
+- My projects include a PHP/MySQL marketplace, Java Swing desktop apps, an Oracle SQL and PL/SQL database, C++ OpenGL graphics and a PyTorch image classifier.
+- My thesis studies when an LLM's fix for buggy Python code can be trusted. Confidence calibration is still in progress.
+- I value clear code structure and documentation that lets others run and check my work.
+- I'm looking for a paid curriculum internship in backend/web development or applied AI/ML.
 
 ---
 
@@ -45,7 +45,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle SQL/PLSQL](https://img.shields.io/badge/Oracle%20SQL%2FPLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle SQL and PL/SQL](https://img.shields.io/badge/Oracle%20SQL%20%2F%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### AI/ML & Research Tools
 
@@ -77,7 +77,7 @@
 
 ---
 
-## Current Thesis — In Progress
+## Current Thesis (in progress)
 
 ### Confidence-Guided Adaptive Repair for Reliable LLM-Based Code Debugging
 
@@ -85,7 +85,7 @@ My thesis investigates whether **calibrated confidence** can make LLM-based prog
 
 The work uses a Python buggy-to-corrected-code benchmark assembled from multiple sources. The current experimental resplit contains **25,097 examples**: **20,077 training**, **2,510 validation**, and **2,510 test** rows.
 
-The broader study evaluates a **13-model shortlist across six model families** — Qwen, Gemma, Phi, DeepSeek, Llama, and StarCoder2 — while preserving each model's recorded generation and checkpoint configuration.
+The broader study evaluates a **13-model shortlist across six model families** (Qwen, Gemma, Phi, DeepSeek, Llama and StarCoder2), while preserving each model's recorded generation and checkpoint configuration.
 
 ### Research workflow
 
@@ -93,14 +93,14 @@ The broader study evaluates a **13-model shortlist across six model families** �
 
 | Work package | Current status |
 |---|---|
-| Multi-source dataset construction and current resplit | ✅ Completed |
-| Model-specific QLoRA training and baseline evaluation | ✅ Completed foundation |
-| Historical and unified retrieval-augmented diagnostics | ✅ Completed foundation |
-| Hidden behavioral/oracle evaluation infrastructure | ✅ Implemented and validated |
-| Confidence-data collection and labeling | 🔄 In progress |
-| Confidence calibration | 🔄 Provisional / in progress |
-| Adaptive threshold tuning and controller comparison | ⏳ Not yet completed |
-| Final statistical analysis and thesis write-up | ⏳ Remaining |
+| Multi-source dataset construction and current resplit | Completed |
+| Model-specific QLoRA training and baseline evaluation | Completed foundation |
+| Historical and unified retrieval-augmented diagnostics | Completed foundation |
+| Hidden behavioral/oracle evaluation infrastructure | Implemented and validated |
+| Confidence-data collection and labeling | In progress |
+| Confidence calibration | Provisional / in progress |
+| Adaptive threshold tuning and controller comparison | Not yet completed |
+| Final statistical analysis and thesis write-up | Remaining |
 
 **Current principle:** unfinished experiments are reported as progress, not as final thesis results. Gold-reference-gated retrieval experiments are treated as diagnostic upper bounds rather than deployable inference performance.
 
@@ -130,11 +130,11 @@ Expected graduation: **2026** · CGPA: **3.50 / 4.00**
 
 ## Experience
 
-### Business Partner — Nirjhor Crafts
+### Business Partner, Nirjhor Crafts
 **2025–Present**  
 I run the online side of an early-stage handmade-crafts business on Facebook: product posts, customer messages and orders.
 
-### Private Tutor — Caretutors
+### Private Tutor, Caretutors
 **2023–2025**  
 Tutored 3 students in maths and science across classes 7–10, in Bangla medium and English version, two of them for two school years.
 
@@ -142,9 +142,9 @@ Tutored 3 students in maths and science across classes 7–10, in Bangla medium 
 
 ## More Work
 
-- **[FraudSense](https://github.com/Alif-ziad/FraudSense)** — Academic fraud-monitoring product concept with a packaged UI prototype.
-- **[PHP Coursework](https://github.com/Alif-ziad/PHP)** — PHP/MySQL exercises covering forms, file uploads, database interaction, and introductory web programming.
-- **[Web Tech Mid](https://github.com/Alif-ziad/Web-Tech-Mid)** — HTML, CSS, and JavaScript coursework covering layouts, forms, client-side validation, and DOM interactions.
+- **[FraudSense](https://github.com/Alif-ziad/FraudSense)**: academic fraud-monitoring product concept with a packaged UI prototype.
+- **[PHP Coursework](https://github.com/Alif-ziad/PHP)**: PHP/MySQL exercises covering forms, file uploads, database interaction, and introductory web programming.
+- **[Web Tech Mid](https://github.com/Alif-ziad/Web-Tech-Mid)**: HTML, CSS, and JavaScript coursework covering layouts, forms, client-side validation, and DOM interactions.
 
 ---
 
