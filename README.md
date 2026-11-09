@@ -130,13 +130,13 @@ Expected graduation: **2026** · CGPA: **3.50 / 4.00**
 
 ## Experience
 
-### Business Partner, Nirjhor Crafts
-**2025–Present**  
-I run the online side of an early-stage handmade-crafts business on Facebook: product posts, customer messages and orders.
-
 ### Private Tutor, Caretutors
-**2023–2025**  
+**Aug 2024 – Dec 2025**  
 Tutored 3 students in maths and science across classes 7–10, in Bangla medium and English version, two of them for two school years.
+
+### Business Partner, Nirjhor Crafts
+**Dec 2023 – Jun 2025**  
+I ran the online side of an early-stage handmade-crafts business on Facebook: product posts, customer messages and orders.
 
 ---
 
