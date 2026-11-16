@@ -67,9 +67,9 @@ I'm a final-year Computer Science and Engineering student at AIUB, graduating in
 | Project | What it demonstrates | Main technologies |
 |---|---|---|
 | **[Nirjhor](https://github.com/Alif-ziad/Nirjhor_Project)** | Multi-role e-commerce marketplace with customer, seller, and administrator workflows; product management, cart, orders, approvals, and reporting | PHP, MySQL, HTML, CSS |
-| **[Real vs AI-Generated Image](https://github.com/Alif-ziad/Real_VS_AI_Generated_image)** | CNN-based image-classification experiment comparing baseline and augmented training on a balanced real-vs-synthetic image dataset | Python, PyTorch, Jupyter |
+| **[Real vs AI-Generated Image](https://github.com/Alif-ziad/Real_VS_AI_Generated_image)** | CNN-based image-classification experiment comparing baseline and augmented training on a balanced dataset of 3,820 images (1,910 real, 1,910 AI-generated) | Python, PyTorch, Jupyter |
 | **[Job Circular Registration](https://github.com/Alif-ziad/Job-Circular-Registration)** | Java Swing recruitment prototype with separate applicant registration/login flows and lightweight local persistence | Java, Swing, AWT |
-| **[Innovation Challenge Management System](https://github.com/Alif-ziad/Innovation-Challenge-Management-System)** | Fork of a group Oracle database project covering challenges, teams, submissions, judging, mentorship, sponsors, prizes, normalization, and PL/SQL exercises | Oracle SQL, PL/SQL |
+| **[Innovation Challenge Management System](https://github.com/Alif-ziad/Innovation-Challenge-Management-System)** | Fork of a group Oracle database project: a 16-table schema in 3NF covering challenges, teams, submissions, judging, mentorship, sponsors and prizes, with PL/SQL procedures, functions, triggers and cursors | Oracle SQL, PL/SQL |
 | **[Dhaka City Graphical View](https://github.com/Alif-ziad/Dhaka-City-Graphical-view)** | Interactive computer-graphics project combining Airport, Uttara, and 300 Feet Dhaka scenes with animation and scene switching | C++, OpenGL, GLUT |
 | **[Travel Agency Management System](https://github.com/Alif-ziad/Tour-Management-System)** | Java Swing travel-agency desktop project with user/admin flows, package selection, custom pricing, local demo accounts, and simulated payments | Java, Swing, AWT |
 
