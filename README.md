@@ -4,7 +4,7 @@
 
 ### Final-year CSE Student · Software Developer · Backend/Web · Applied AI/ML
 
-**American International University-Bangladesh (AIUB) · Expected graduation: 2026**
+**American International University-Bangladesh (AIUB) · Expected graduation: 2027**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/alifziad/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-ziad)
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science and Engineering student at AIUB, graduating in 2026. I work on backend/web development and applied AI/ML.
+I'm a final-year Computer Science and Engineering student at AIUB, graduating in 2027. I work on backend/web development and applied AI/ML.
 
 - My projects include a PHP/MySQL marketplace, Java Swing desktop apps, an Oracle SQL and PL/SQL database, C++ OpenGL graphics and a PyTorch image classifier.
 - My thesis studies when an LLM's fix for buggy Python code can be trusted. Confidence calibration is still in progress.
@@ -124,7 +124,7 @@ The broader study evaluates a **13-model shortlist across six model families** (
 
 ### American International University-Bangladesh (AIUB)
 **BSc in Computer Science and Engineering**  
-Expected graduation: **2026** · CGPA: **3.50 / 4.00**
+Expected graduation: **2027** · CGPA: **3.50 / 4.00**
 
 ---
 
