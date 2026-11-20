@@ -23,6 +23,7 @@
 I'm a final-year Computer Science and Engineering student at AIUB, graduating in 2027. I work on backend/web development and applied AI/ML.
 
 - My projects include a PHP/MySQL marketplace, Java Swing desktop apps, an Oracle SQL and PL/SQL database, C++ OpenGL graphics and a PyTorch image classifier.
+- I also ran a leave-one-platform-out study on a new Bangladeshi land-cover dataset: about 0.99 macro-F1 on a random split, 0.29 to 0.85 on an imagery platform the model had not seen. I report two runs and the limits.
 - My thesis studies when an LLM's fix for buggy Python code can be trusted. Confidence calibration is still in progress.
 - I value clear code structure and documentation that lets others run and check my work.
 - I'm looking for a paid curriculum internship in backend/web development or applied AI/ML.
@@ -52,6 +53,9 @@ I'm a final-year Computer Science and Engineering student at AIUB, graduating in
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-4B8BBE?style=flat-square)
 
 ### Development & Tools
@@ -66,6 +70,7 @@ I'm a final-year Computer Science and Engineering student at AIUB, graduating in
 
 | Project | What it demonstrates | Main technologies |
 |---|---|---|
+| **[MLC-BD platform shift](https://github.com/Alif-ziad/mlc-bd-platform-shift)** | Leave-one-platform-out evaluation of ResNet-50 and MobileNetV3 on a new land-cover dataset from three mapping platforms: about 0.99 macro-F1 on a random split, 0.29 to 0.85 on a platform never seen in training. Two runs are reported and the limits are stated | Python, PyTorch, pandas, scikit-learn, Captum |
 | **[Nirjhor](https://github.com/Alif-ziad/Nirjhor_Project)** | Multi-role e-commerce marketplace with customer, seller, and administrator workflows; product management, cart, orders, approvals, and reporting | PHP, MySQL, HTML, CSS |
 | **[Real vs AI-Generated Image](https://github.com/Alif-ziad/Real_VS_AI_Generated_image)** | CNN-based image-classification experiment comparing baseline and augmented training on a balanced dataset of 3,820 images (1,910 real, 1,910 AI-generated) | Python, PyTorch, Jupyter |
 | **[Job Circular Registration](https://github.com/Alif-ziad/Job-Circular-Registration)** | Java Swing recruitment prototype with separate applicant registration/login flows and lightweight local persistence | Java, Swing, AWT |
